@@ -1,4 +1,4 @@
-#GDP Analysis Project
+GDP Analysis Project
 This project focuses on analyzing GDP growth across multiple countries using various data visualization techniques. The aim is to provide insights into the economic performance of different countries over time.
 
 Table of Contents
@@ -9,7 +9,7 @@ Walkthrough
 Conclusion
 
 
-#Features
+Features
 
   Compare GDP Growth across Countries (Advanced)
   Analyze the GDP growth rate across multiple countries with advanced techniques.
